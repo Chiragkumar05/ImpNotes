@@ -9,11 +9,7 @@ D:\Angular\Node Modules Master\demo
 Command to share node modules.
 mklink /d node_modules D:\Angular\node_modulues
 
-Open Command Prompt with administrator.  It will show as 
-
-C:\Window\System32
-
-go to project location folder in cmd window path
+go to project location folder in cmd window path (As adminstrator)
 
 D:\Angular\Employee >  Here type the above command. "mklink /d node_modules D:\Angular\node_modulues"
 
